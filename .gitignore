@@ -1,0 +1,21 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# Model artifacts and outputs
+outputs/
+catboost_info/
+*.joblib
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
